@@ -1,2 +1,2 @@
-# bbtchain
+# bbtclub
 BBT CLUB DAPP
