@@ -1,2 +1,0 @@
-# bbtclub
-BBT CLUB DAPP
